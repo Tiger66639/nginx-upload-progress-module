@@ -1,6 +1,6 @@
 # Nginx Upload Progress Module
 ============================
-!https://travis-ci.org/Tiger66639/nginx-upload-progress-module.svg!:https://travis-ci.org/Tiger66639/nginx-upload-progress-module
+#https://api.travis-ci.org/repos/Tiger66639/nginx-upload-progress-module/cc.xml
 ============
 
 nginx_uploadprogress_module is an implementation of an upload progress system, that monitors
